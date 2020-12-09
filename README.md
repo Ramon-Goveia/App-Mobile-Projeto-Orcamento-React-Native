@@ -2,4 +2,4 @@
 Aplicação mobile com React Native, formulário para solicitação de orçamento.
 
 Tecnologias:
--React Native
+ - React Native
